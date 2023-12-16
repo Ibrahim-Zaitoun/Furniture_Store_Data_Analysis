@@ -6,4 +6,4 @@
 
 -Analysis Reviews for each Customer and get top reviewed products
 
--Applyinf RFM Analysis -> Recency, Frequency,	Monetary
+-Applying RFM Analysis -> Recency, Frequency,	Monetary
