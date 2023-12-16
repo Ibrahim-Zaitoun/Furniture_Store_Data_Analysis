@@ -1,2 +1,5 @@
 # Furniture_Store_Data_Analysis
-Analysis Sales Data for Furniture Store
+Get Insights from Sales data 
+Calculate much calculations on products data
+Analysis Reviews for each Customer and get top reviewed products
+Applyinf RFM Analysis -> Recency, Frequency,	Monetary
